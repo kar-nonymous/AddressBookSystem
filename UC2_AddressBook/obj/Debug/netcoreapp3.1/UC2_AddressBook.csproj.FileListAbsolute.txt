@@ -1,0 +1,12 @@
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\bin\Debug\netcoreapp3.1\UC2_AddressBook.exe
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\bin\Debug\netcoreapp3.1\UC2_AddressBook.deps.json
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\bin\Debug\netcoreapp3.1\UC2_AddressBook.runtimeconfig.json
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\bin\Debug\netcoreapp3.1\UC2_AddressBook.runtimeconfig.dev.json
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\bin\Debug\netcoreapp3.1\UC2_AddressBook.dll
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\bin\Debug\netcoreapp3.1\UC2_AddressBook.pdb
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\obj\Debug\netcoreapp3.1\UC2_AddressBook.AssemblyInfoInputs.cache
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\obj\Debug\netcoreapp3.1\UC2_AddressBook.AssemblyInfo.cs
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\obj\Debug\netcoreapp3.1\UC2_AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\obj\Debug\netcoreapp3.1\UC2_AddressBook.dll
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\obj\Debug\netcoreapp3.1\UC2_AddressBook.pdb
+C:\Users\Kartikeya\source\repos\UC2_AddressBook\UC2_AddressBook\obj\Debug\netcoreapp3.1\UC2_AddressBook.genruntimeconfig.cache
